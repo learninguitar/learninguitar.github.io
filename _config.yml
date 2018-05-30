@@ -25,3 +25,6 @@ sass:
 # Exclude these files from your production _site
 exclude:
   - README.md
+
+exclude:
+  - ignore
