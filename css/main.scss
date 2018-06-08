@@ -1,6 +1,21 @@
 ---
 ---
 
+.navbar {
+  h1 {
+    font-size: 24px;
+
+    small {
+      font-size: 60%;
+      margin-left: 10px;
+      vertical-align: top;
+      background-color: red;
+      padding: 2px 5px;
+      border-radius: 5px;
+    }
+  }
+}
+
 .why-build-a-prototype {
   background-color: #f6f9fc;
   img.why-image {
